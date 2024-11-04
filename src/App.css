@@ -1,0 +1,17 @@
+.hide {
+    visibility: hidden;
+}
+
+.show {
+    visibility: visible;
+}
+
+.container {
+    height: 300vh;
+    width: 100vw;
+    border: 1px solid red;
+}
+
+.additional {
+    background-color: aqua;
+}
